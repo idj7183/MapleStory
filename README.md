@@ -110,5 +110,4 @@
 6. 몬스터 또한 이동할 수 있게 구현하면 좋았을 것 같다.
 7. 편의를 위해 스펙을 항상 창 왼쪽 위에 항상 써놨는데, 나중에는 TAB 키 등을 이용해서 보고 싶을 때만 창을 띄워서 볼 수 있게 구현할 수 있을 것 같다.
 * * *
-## API Document 파일 
-file:///C:/Users/%EC%9E%84%EB%8F%99%EC%A7%84/Desktop/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B9%83%ED%97%88%EB%B8%8C2/Haketon_re/doc/overview-summary.html
+
