@@ -11,6 +11,9 @@ import javax.swing.JOptionPane;
 import Character.Hero;
 import GUI.Sign;
 
+/**
+ * DB에 유저와 캐릭터 조회 및 저장
+ */
 public class DB {
 	private final static int CHAR_Y = 392;
 
