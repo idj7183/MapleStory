@@ -111,6 +111,6 @@
 7. 편의를 위해 스펙을 항상 창 왼쪽 위에 항상 써놨는데, 나중에는 TAB 키 등을 이용해서 보고 싶을 때만 창을 띄워서 볼 수 있게 구현할 수 있을 것 같다.
 * * *
 ## 자바독
-[JAVADOC](https://idj7183.github.io/MapleStory/.MapleStory/Haketon_re/doc/index.html)
+[JAVADOC](https://idj7183.github.io/MapleStory/MapleStory/Haketon_re/doc/index.html)
 * * *
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
