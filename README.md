@@ -113,4 +113,4 @@
 ## 자바독
 [JAVADOC](https://idj7183.github.io/MapleStory/Haketon_re/doc/index.html)
 * * *
-[![시연영상](https://img.youtube.com/vi/YiBDo5mq0CQ&feature=youtu.be/2.jpg)]
+[![시연영상](https://img.youtube.com/vi/YiBDo5mq0CQ/0.jpg)](https://youtu.be/YiBDo5mq0CQ?t=0s)
