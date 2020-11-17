@@ -26,6 +26,9 @@ import Character.Hero;
 import Information.DB;
 import Play.Maple;
 
+/**
+ * 로그인 시도 화면
+ */
 public class Login extends JFrame implements ActionListener, KeyListener {
 	
 	/**
