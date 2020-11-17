@@ -4,46 +4,53 @@ import java.awt.Point;
 
 /**
  * 캐릭터 생성 클래스
- *
  */
 public class Hero {
-
 	/**
 	 * 캐릭터 초기 X좌표
 	 */
 	private final int CHAR_X = 10;
+	
 	/**
 	 * 캐릭터 초기 Y좌표
 	 */
 	private final int CHAR_Y = 392;
+	
 	/**
 	 * 캐릭터 체력
 	 */
 	private int hp;
+	
 	/**
 	 * 캐릭터 공격력
 	 */
 	private int ap;
+	
 	/**
 	 * 캐릭터 치명타
 	 */
 	private int cri;
+	
 	/**
 	 * 캐릭터 경험치
 	 */
 	private int ex = 0;
+	
 	/**
 	 * 캐릭터 레벨
 	 */
 	private int level = 1;
+	
 	/**
 	 * 캐릭터 직업
 	 */
 	private String job;
+	
 	/**
 	 * 캐릭터 레벨에 해당하는 최대 체력
 	 */
 	private int MaxHP;
+	
 	/**
 	 * 캐릭터 무기 레벨
 	 */
