@@ -2,7 +2,6 @@
 
 ## 프로그램 주제
 메이플스토리 로그인 화면과 메이플스토리 게임을 구현한다
-[JAVADOC](https://idj7183.github.io/MapleStory/Haketon_re/doc/index.html)
 * * *
 ## 핵심 기능
 ### 로그인 화면
@@ -110,5 +109,8 @@
 5. 일반 공격이 아닌 스킬 구현도 시킬 수 있으면 좋았을 것 같다.
 6. 몬스터 또한 이동할 수 있게 구현하면 좋았을 것 같다.
 7. 편의를 위해 스펙을 항상 창 왼쪽 위에 항상 써놨는데, 나중에는 TAB 키 등을 이용해서 보고 싶을 때만 창을 띄워서 볼 수 있게 구현할 수 있을 것 같다.
+* * *
+## 자바독
+[JAVADOC](https://idj7183.github.io/MapleStory/Haketon_re/doc/overview-summary.html)
 * * *
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
